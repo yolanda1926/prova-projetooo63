@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    background: red !important;
+}
+input{
+    margin: auto;
+}
+
+a{
+    margin-top: 5px;
+    padding: 5px;    
+    background: rgb(124, 5, 5);
+    text-decoration: none;    
+    border-radius: 5px;
+    
+}
+#ppp{
+    background: rebeccapurple !important;
+}
+div{
+    margin: auto !important;
+    
+}
